@@ -1,0 +1,102 @@
+[
+     { 
+       "studentPhoto":"https://help.evolphin.com/wp-content/uploads/2014/09/Photoshop-screenshot.jpg",
+       "studentName" : "Sahil0 kumar",
+       "subject" : "Data structures0",
+       "articles" : 1,
+       "yop":2023,
+       "nameofCompany":"abcd1",
+       "home":"wxyz1"
+       },
+       { 
+        "studentPhoto":"https://2.bp.blogspot.com/-ImSafIubfj0/VpPh4gkb_pI/AAAAAAAAAVM/5Q6vWfj-Sjw/s1600/use-Photoshop-basic-online-free-training-tutorials-effects-free.jpg",
+        "studentName" : "Abhishek kumar",
+        "subject" : "Data Science",
+        "articles" : 2,
+        "yop":2022,
+        "nameofCompany":"abcd2",
+        "home":"wxyz2"
+        },
+        { 
+        "studentPhoto":"https://i.pinimg.com/originals/86/9e/cd/869ecdd1e0a120ff762bddb3a34248be.jpg",
+       "studentName" : "Abhitesh kumar",
+       "subject" : "c++",
+       "articles" : 3,
+       "yop":2021,
+       "nameofCompany":"abcd3",
+       "home":"wxyz3"
+       },
+       { 
+        "studentPhoto":"https://th.bing.com/th/id/OIP.lslt2mciA7hh8WvZvxFifgHaEK?pid=ImgDet&rs=1",
+       "studentName" : "Akshata kumar",
+       "subject" : "java",
+       "articles" : 4,
+       "yop":2020,
+       "nameofCompany":"abcd4",
+       "home":"wxyz4"
+       },
+       { 
+        "studentPhoto":"https://i.pinimg.com/originals/4a/cf/1d/4acf1d08a8e413837e00750b26e19fc8.jpg",
+       "studentName" : "Akriti kumari",
+       "subject" : "developer",
+       "articles" : 5,
+       "yop":2019,
+       "nameofCompany":"abcd5",
+       "home":"wxyz5"
+       },
+       { 
+        "studentPhoto":"https://th.bing.com/th/id/OIP.Uyv6YPxngcL9lq2PwSzZhgHaFK?pid=ImgDet&w=1440&h=1005&rs=1",
+       "studentName" : "Alok kumar",
+       "subject" : "mern",
+       "articles" : 6,
+       "yop":2018,
+       "nameofCompany":"abcd6",
+       "home":"wxyz6"
+       },
+       {
+        "studentPhoto":"https://i.ytimg.com/vi/SFrwwXAXGcQ/maxresdefault.jpg",
+       "studentName" : "Aman kumar",
+       "subject" : "hacking",
+       "articles" : 7,
+       "yop":2017,
+       "nameofCompany":"abcd7",
+       "home":"wxyz7"
+       },
+       { 
+        "studentPhoto":"https://i0.wp.com/www.photoshoptutorials.ws/wp-content/uploads/2013/07/maxresdefault.jpg?fit=1620%2C1080&ssl=1",
+       "studentName" : "Aman raj",
+       "subject" : "Senoir dev",
+       "articles" : 8,
+       "yop":2016,
+       "nameofCompany":"abcd8",
+       "home":"wxyz8"
+       },
+       { 
+        "studentPhoto":"https://th.bing.com/th/id/R.2434dafe06101a1de0749cfd9d45ff11?rik=E7NyGTw9MK%2bEKg&riu=http%3a%2f%2fwww.hawtcelebs.com%2fwp-content%2fuploads%2f2012%2f10%2fMINKA-KELLY-at-LACMA-Art-and-Gala-in-Los-Angeles-1.jpg&ehk=oB19MRUvGgFQTrmPyp%2fvGsZTl4d%2fZppAo1cb1xF1IYg%3d&risl=&pid=ImgRaw&r=0",
+       "studentName" : "Arpit kumar",
+       "subject" : "mern",
+       "articles" : 9,
+       "yop":2015,
+       "nameofCompany":"abcd9",
+       "home":"wxyz9"
+       },
+       { 
+        "studentPhoto":"https://th.bing.com/th/id/OIP.P1fwZs3jneKtOtXRfAzPBAHaEo?pid=ImgDet&rs=1",
+       "studentName" : "Ahijeet kumar",
+       "subject" : "devOps",
+       "articles" : 10,
+       "yop":2014,
+       "nameofCompany":"abcd10",
+       "home":"wxyz10"
+       },
+       { 
+        "studentPhoto":"https://i.ytimg.com/vi/vrhgBg1Ixlw/maxresdefault.jpg",
+       "studentName" : "subham kumar",
+       "subject" : "scinece",
+       "articles" : 11,
+       "yop":2013,
+       "nameofCompany":"abcd11",
+       "home":"wxyz11"
+       }
+
+   ]
